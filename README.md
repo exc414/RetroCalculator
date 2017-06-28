@@ -1,2 +1,2 @@
 # RetroCalculator
-Assignment application for Swift 4.
+Assignment application for Swift.
